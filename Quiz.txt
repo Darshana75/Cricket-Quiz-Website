@@ -1,0 +1,107 @@
+1. 
+Which cricketer has scored the most runs at the World Cup?
+A. Sachin Tendulkar
+options:
+"A. Sachin Tendulkar",
+"B. Kumar Sangakkara",
+"C. Sanath Jayasuriya",
+"D. Ricky Ponting"
+
+2. 
+Who was the first Sri Lankan player to play 100 Tests?
+C. S Jayasuriya
+options:
+"A. M Jayawardene",
+"B. M Muralitharan",
+"C. S Jayasuriya",
+"D. A de Silva"
+
+3. 
+In which year were the World Cup matches reduced to 50 overs from the previous 60 overs?
+D. 1987
+options:
+"A. 1983",
+"B. 1979",
+"C. 1992",
+"D. 1987"
+
+4. 
+Who was the first Sri Lankan player to have scored a century and taken 3 wickets in the same ODI match?
+D. Aravinda de Silva
+options:
+"A. Angelo Mathews",
+"B. Sanath Jayasuriya",
+"C. TM Dilshan",
+"D. Aravinda de Silva"
+
+5. 
+Who won the first ever Cricket World Cup in 1975?
+B. West Indies
+options:
+"A. Australia",
+"B. West Indies",
+"C. India",
+"D. England"
+
+6. 
+When was the Ashes first played?
+C. 1877
+options:
+"A. 1872",
+"B. 1882",
+"C. 1877",
+"D. 1887"
+
+7. 
+What is the largest cricket stadium in the world?
+D. Narendra Modi Stadium
+options:
+"A. Eden Gardens",
+"B. Melbourne Cricket Club",
+"C. Lords",
+"D. Narendra Modi Stadium"
+
+8. 
+How many ways are there of getting out?
+C. 10
+options:
+"A. 7",
+"B. 8",
+"C. 10",
+"D. 9"
+
+9. 
+How long is the wicket on a cricket pitch?
+A. 22 yards
+options:
+"A. 22 yards",
+"B. 24 yards",
+"C. 18 yards",
+"D. 20 yards"
+
+10. 
+Who did England beat in the final of the 2019 Cricket World Cup?
+D. New Zealand
+options:
+"A. Australia",
+"B. West Indies",
+"C. India",
+"D. New Zealand"
+
+11. 
+Which fast bowler has taken the most test wickets?
+C. James Anderson
+options:
+"A. Stuart Broad",
+"B. Glenn McGrath",
+"C. James Anderson",
+"D. Dale Steyn"
+
+12. 
+Who is the first batsman to cross 10,000 runs in tests?
+A. Sunil Gavaskar
+options:
+"A. Sunil Gavaskar",
+"B. Sachin Tendulkar",
+"C. Allan Border",
+"D. Brian Lara"
